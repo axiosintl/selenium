@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ai.selenium.capes.HelloWebDriver
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 8.996 sec - in com.ai.selenium.capes.HelloWebDriver
